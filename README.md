@@ -1,5 +1,5 @@
 ## Projects
 
-- **[books](https://newhigen.github.io/books)** — 📚 독서 히트맵과 책 목록을 생성하는 미니 사이트.
-- **[tools](https://newhigen.github.io/tools)** — 미니멀 웹 툴을 모아두는 저장소.
-- **[newhigen.github.io](https://newhigen.github.io)** — 개인 기술 블로그 및 문서 아카이브
+- `books`: 개인 독서 기록 사이트 ([GitHub](https://github.com/newhigen/books)) ([🌐](https://newhigen.github.io/books))
+- `newhigen.github.io`: 개인 블로그 ([GitHub](https://github.com/newhigen/newhigen.github.io)) ([🌐](https://newhigen.github.io/))
+- `tools`: 미니 웹 툴 모음. ([GitHub](https://github.com/newhigen/tools)) ([🌐](https://newhigen.github.io/tools)) 
