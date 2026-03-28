@@ -1,9 +1,9 @@
-## Career
+ML Engineer with 4y+ Experience. ([Resume](https://tech.sungd.uk/resume))
 
-- ML Engineer (`3y 8m+`)
+**Writing**
+- [sungd.uk](https://sungd.uk) — 개인 블로그
+- [tech.sungd.uk](https://tech.sungd.uk) — 기술 블로그
 
-## Projects
-
-- 📚 독서 기록 사이트 ([`books`](https://newhigen.github.io/books)) 
-- ✍️ 개인 블로그 ([`newhigen.github.io`](https://newhigen.github.io/))
-- 🔧 미니 웹 툴 모음 ([`tools`](https://newhigen.github.io/tools)) 
+**Archive**
+- [books](https://github.com/newhigen/books) — 독서 기록
+- [tools](https://github.com/newhigen/tools) — 미니 웹 툴
