@@ -4,8 +4,7 @@ ML Engineer with 4y+ Experience. ([Resume](https://tech.sungd.uk/resume))
 - [sungd.uk](https://sungd.uk) — 개인 블로그
 - [tech.sungd.uk](https://tech.sungd.uk) — 기술 블로그
 
-**AI in Daily Life**  
-[Projects](https://tech.sungd.uk/projects/)
+**AI in Daily Life:** [Projects](https://tech.sungd.uk/projects/)
 
 **Archive**
 - [archive-books](https://github.com/newhigen/archive-books) — 독서 기록
