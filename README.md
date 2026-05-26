@@ -5,7 +5,7 @@ ML Engineer with 4y+ Experience. ([Resume](https://tech.sungd.uk/resume))
 - [tech.sungd.uk](https://tech.sungd.uk) — 기술 블로그
 
 **AI in Daily Life**  
-의료 AI 개발자가 일상에서 AI를 활용하는 방식 — [tech.sungd.uk](https://tech.sungd.uk)
+[Projects](https://tech.sungd.uk/projects/)
 
 **Archive**
 - [archive-books](https://github.com/newhigen/archive-books) — 독서 기록
