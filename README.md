@@ -1,27 +1,27 @@
-ML Engineer with 4y+ Experience. ([Resume](https://tech.sungd.uk/resume))
+ML Engineer with 4+ years of experience. ([Resume](https://tech.sungd.uk/resume))
 
-일상의 데이터 — 건강·근태·가계부·독서 — 를 작은 AI 도구와 대시보드로 들여다보고,
-AI 코딩 에이전트를 더 잘 쓰는 도구를 만든다.
+I turn everyday data — health, work hours, spending, reading — into small AI tools
+and dashboards, and build tooling to get more out of AI coding agents.
 
-**Sites**
-- [sungd.uk](https://sungd.uk) — 개인 블로그
-- [tech.sungd.uk](https://tech.sungd.uk) — 기술 블로그
-- [ai.sungd.uk](https://ai.sungd.uk) — Agent Edge · AI 코딩 에이전트 새 기능 트래커
+**🔗 Sites**
+- [sungd.uk](https://sungd.uk) — personal blog
+- [tech.sungd.uk](https://tech.sungd.uk) — tech blog
+- [ai.sungd.uk](https://ai.sungd.uk) — Agent Edge · a tracker for new AI coding-agent features
 
-**AI in Daily Life** · [전체 →](https://tech.sungd.uk/projects/)
-- [근태 기록 분석](https://tech.sungd.uk/projects/worklog-dashboard/) — 야근 시기·출퇴근 리듬 시각화
-- [건강검진 결과지 분석](https://tech.sungd.uk/projects/health-dashboard/) — 수치의 연도별 추세 추적
-- [보험 상품 비교 분석](https://tech.sungd.uk/projects/insurance-dashboard/) — 두 상품 30년 손익 시뮬레이션
-- [독서 성향 분석](https://tech.sungd.uk/projects/book-analysis/) — 읽은 책 데이터로 취향의 궤적
-- [가계부 자동 기입](https://tech.sungd.uk/projects/whooing-tools/) — 은행 명세서 → 후잉 자동 변환
-- [선거 공약 분석](https://tech.sungd.uk/projects/election/) — 공약·이행 실적으로 이행 전망 (가상 예시)
+**📊 AI in Daily Life** · [all projects →](https://tech.sungd.uk/projects/)
+- [Work-hours analysis](https://tech.sungd.uk/projects/worklog-dashboard/) — overtime cycles & commute rhythm
+- [Health checkup analysis](https://tech.sungd.uk/projects/health-dashboard/) — lab values tracked year over year
+- [Insurance comparison](https://tech.sungd.uk/projects/insurance-dashboard/) — 30-year cost/benefit simulation
+- [Reading taste analysis](https://tech.sungd.uk/projects/book-analysis/) — the trajectory of taste from book data
+- [Ledger auto-entry](https://tech.sungd.uk/projects/whooing-tools/) — bank statements → ledger, automatically
+- [Election pledge analysis](https://tech.sungd.uk/projects/election/) — forecasting whether pledges get kept (sample)
 
-**Better Claude Code**
-- [Claude 워치](https://tech.sungd.uk/projects/claude-watch/) — 답을 기다리는 Claude 창을 한눈에
-- [Claude 워밍업](https://tech.sungd.uk/projects/claude-warmup/) — quota 윈도우를 미리 깨워 토큰 분산
-- [Claude Code 트래킹](https://tech.sungd.uk/projects/claude-code-tracking/) — 릴리스마다 "써볼 만한 것" 큐레이션
-- [Claude 대시보드 패치](https://tech.sungd.uk/projects/claude-dashboard-patches/) — status line 커스터마이즈
+**🤖 Better Claude Code**
+- [Claude Watch](https://tech.sungd.uk/projects/claude-watch/) — see which Claude window is waiting on you
+- [Claude Warmup](https://tech.sungd.uk/projects/claude-warmup/) — pre-open quota windows to spread tokens
+- [Claude Code Tracking](https://tech.sungd.uk/projects/claude-code-tracking/) — what's worth trying each release
+- [Claude Dashboard Patches](https://tech.sungd.uk/projects/claude-dashboard-patches/) — status line customizations
 
-**Archive**
-- [archive-books](https://github.com/newhigen/archive-books) — 독서 기록
-- [archive-tools](https://github.com/newhigen/archive-tools) — 미니 웹 툴
+**🗄️ Archive**
+- [archive-books](https://github.com/newhigen/archive-books) — reading log
+- [archive-tools](https://github.com/newhigen/archive-tools) — mini web tools
