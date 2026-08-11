@@ -1,27 +1,9 @@
-ML Engineer with 4+ years of experience. ([Resume](https://tech.sungd.uk/resume))
+ML Engineer with 4+ years of experience.
 
-I turn everyday data — health, work hours, spending, reading — into small AI tools
+I turn everyday data — health, work hours, spending, reading — into small tools
 and dashboards, and build tooling to get more out of AI coding agents.
 
-**🔗 Sites**
-- [sungd.uk](https://sungd.uk) — personal blog
-- [tech.sungd.uk](https://tech.sungd.uk) — tech blog
-- [ai.sungd.uk](https://ai.sungd.uk) — Agent Edge · a tracker for new AI coding-agent features
-
-**📊 AI in Daily Life** · [all projects →](https://tech.sungd.uk/projects/)
-- [Work-hours analysis](https://tech.sungd.uk/projects/worklog-dashboard/) — overtime cycles & commute rhythm
-- [Health checkup analysis](https://tech.sungd.uk/projects/health-dashboard/) — lab values tracked year over year
-- [Insurance comparison](https://tech.sungd.uk/projects/insurance-dashboard/) — 30-year cost/benefit simulation
-- [Reading taste analysis](https://tech.sungd.uk/projects/book-analysis/) — the trajectory of taste from book data
-- [Ledger auto-entry](https://tech.sungd.uk/projects/whooing-tools/) — bank statements → ledger, automatically
-- [Election pledge analysis](https://tech.sungd.uk/projects/election/) — forecasting whether pledges get kept (sample)
-
-**🤖 Better Claude Code**
-- [Claude Watch](https://tech.sungd.uk/projects/claude-watch/) — see which Claude window is waiting on you
-- [Claude Warmup](https://tech.sungd.uk/projects/claude-warmup/) — pre-open quota windows to spread tokens
-- [Claude Code Tracking](https://tech.sungd.uk/projects/claude-code-tracking/) — what's worth trying each release
-- [Claude Dashboard Patches](https://tech.sungd.uk/projects/claude-dashboard-patches/) — status line customizations
-
-**🗄️ Archive**
-- [archive-books](https://github.com/newhigen/archive-books) — reading log
-- [archive-tools](https://github.com/newhigen/archive-tools) — mini web tools
+- [sungd.uk](https://sungd.uk) — start here
+- [resume.sungd.uk](https://resume.sungd.uk) — resume, and [everything I've built](https://resume.sungd.uk/projects/)
+- [writing.sungd.uk](https://writing.sungd.uk) — books, thoughts, tech
+- [ai.sungd.uk](https://ai.sungd.uk) — what's worth trying in each Claude Code / Codex release
