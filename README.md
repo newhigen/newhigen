@@ -1,9 +1,5 @@
 ML Engineer with 4+ years of experience.
 
-I turn everyday data — health, work hours, spending, reading — into small tools
-and dashboards, and build tooling to get more out of AI coding agents.
+These days, I focus on building tooling and environments to get the most out of AI coding agents — terminal monitors, agentic workflows, and personal systems that augment the speed of thought.
 
-- [sungd.uk](https://sungd.uk) — start here
-- [resume.sungd.uk](https://resume.sungd.uk) — resume, and [everything I've built](https://resume.sungd.uk/projects/)
-- [writing.sungd.uk](https://writing.sungd.uk) — books, thoughts, tech
-- [ai.sungd.uk](https://ai.sungd.uk) — what's worth trying in each Claude Code / Codex release
+[sungd.uk →](https://sungd.uk)
