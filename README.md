@@ -1,5 +1,5 @@
-ML Engineer with 4+ years of experience.
+### Hi, I'm Sungduk Cho
 
-These days, I focus on building tooling and environments to get the most out of AI coding agents — terminal monitors, agentic workflows, and personal systems that augment the speed of thought.
+ML Engineer with 4+ years of experience, shipping AI models to real products and building the tools I work with.
 
-[sungd.uk →](https://sungd.uk)
+[sungd.uk](https://sungd.uk) / [CV](https://sungd.uk/cv/en/) / [dev](https://dev.sungd.uk) / [writing](https://writing.sungd.uk) / [ai](https://ai.sungd.uk)
